@@ -18,10 +18,9 @@ thus, a dice simulator is asimple computer model that can roll dice for us.
 # usage
  To use this
  . clone this repository
+    https://github.com/ritumona01/dice-rolling-simulator.git
   
- .
- .
- .
+ 
  
  
 
